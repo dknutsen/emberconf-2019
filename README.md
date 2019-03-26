@@ -11,7 +11,7 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 - [Official live stream day 1](https://www.youtube.com/watch?v=O3RKLHvpUAI)
 - [Official live stream day 2](https://www.youtube.com/watch?v=QtqnsDd7SLI) - currently unavailable due to YouTube licensing issues
 - [Alex DiLiberto summary and notes](https://alexdiliberto.com/posts/emberconf-2019-notes/)
-
+- [Recap: LinkedIn at EmberConf 2019](https://engineering.linkedin.com/blog/2019/03/recap--linkedin-at-emberconf-2019)
 
 ## Photos
 
@@ -27,7 +27,7 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 #### Learning Ember on the Job by Lily Beauvilliers
 
-#### Maintaining an Ember Application at Scale by Chris Ng
+#### Maintaining an Ember Application at Scale by [Chris Ng](https://twitter.com/chrisrng)
 
 #### Intro to Ember Editions & Octane by Robert Jackson
 
