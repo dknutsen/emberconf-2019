@@ -27,7 +27,7 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 #### Learning Ember on the Job by Lily Beauvilliers
 
-#### Maintaining an Ember Application at Scale by Chris Ng
+#### Maintaining an Ember Application at Scale by [Chris Ng](https://twitter.com/chrisrng)
 
 #### Intro to Ember Editions & Octane by Robert Jackson
 
