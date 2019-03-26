@@ -1,6 +1,10 @@
 # EmberConf 2019 Links and Notes
 
-A collection of links, notes and other resources from EmberConf 2019. This is based on the former conference repos from [poteto](https://github.com/poteto) and [nucleartide](https://github.com/nucleartide)
+A collection of links, notes and other resources from EmberConf 2019. This is based on the former conference repos from [poteto](https://github.com/poteto) and [nucleartide](https://github.com/nucleartide):
+
+- [2018](https://github.com/nucleartide/emberconf-2018)
+- [2017](https://github.com/poteto/emberconf-2017)
+- [2016](https://github.com/poteto/emberconf-2016)
 
 ## Live Stream / Highlights
 
