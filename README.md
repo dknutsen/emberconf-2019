@@ -43,7 +43,7 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 - [Slides](https://speakerdeck.com/tomdale/emberconf-2019-keynote)
 - Links:
 
-#### Building a UI Styleguide in Ember by [Frédéric Soumaré]()
+#### Building a UI Styleguide in Ember by [Frédéric Soumaré](https://twitter.com/hakilebara)
 
 - [Video (coming soon)](/)
 - [Slides](https://speakerdeck.com/hakilebara/building-a-ui-styleguide-with-ember)
