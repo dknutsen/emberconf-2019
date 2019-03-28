@@ -46,7 +46,7 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 #### Building a UI Styleguide in Ember by [Frédéric Soumaré]()
 
 - [Video (coming soon)](/)
-- [Slides](/)
+- [Slides](https://speakerdeck.com/hakilebara/building-a-ui-styleguide-with-ember)
 - Links:
     - [ember-color-palette](https://github.com/hakilebara/ember-color-palette)
 
