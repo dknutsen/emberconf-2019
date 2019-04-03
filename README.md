@@ -39,53 +39,53 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 #### Opening Keynote by [Yehuda Katz](https://twitter.com/wycats) and [Tom Dale](https://twitter.com/tomdale)
 
-- [Video (coming soon)](/)
+- Video (coming soon)
 - [Slides](https://speakerdeck.com/tomdale/emberconf-2019-keynote)
 - Links:
 
 #### Building a UI Styleguide in Ember by [Frédéric Soumaré](https://twitter.com/hakilebara)
 
-- [Video (coming soon)](/)
+- Video (coming soon)
 - [Slides](https://speakerdeck.com/hakilebara/building-a-ui-styleguide-with-ember)
 - Links:
     - [ember-color-palette](https://github.com/hakilebara/ember-color-palette)
 
 #### Your Desktop, the Studio by [Kate Ruggeri](https://github.com/kruggeri)
 
-- [Video (coming soon)](/)
+- Video (coming soon)
 - [Slides](https://www.slideshare.net/KateRuggeri1/your-desktop-the-studio-kate-ruggeri)
 - Links:
 
 #### Comparing Patterns in React and Ember by [Preston Sego]()
 
-- [Video (coming soon)](/)
+- Video (coming soon)
 - [Slides](https://docs.google.com/presentation/d/1ZkFy4JEG8II7OK_rNLGI8M83jjqWFLkJUmKsr4tSY5I/edit#slide=id.p1)
 - [Walk-on Music](https://play.google.com/music/m/T2bsrd37rif5qqn3ir4c7z522mm?t=Cheese_-_The_Floozies)
 - Links:
 
-#### Typed Ember: Strong Types for Better Apps by [James C. Davis](/)
+#### Typed Ember: Strong Types for Better Apps by [James C. Davis](https://twitter.com/jamscdavis)
 
-- [Video (coming soon)](/)
-- [Slides](/)
+- Video (coming soon)
+- [Slides](https://noti.st/jamescdavis/ExAiYa/typed-ember-strong-types-for-better-apps)
 - Links:
 
-#### Anatomy of an Addon Ecosystem by [Lisa Backer](/)
+#### Anatomy of an Addon Ecosystem by [Lisa Backer](https://twitter.com/eshtadc)
 
-- [Video (coming soon)](/)
+- Video (coming soon)
 - [Slides](https://www.slideshare.net/LisaBacker/anatomy-of-an-addon-ecosystem-emberconf-2019-137057383)
 - Links:
 
 
 #### Developing an Ember Test Strategy by [Todd Jordan]()
 
-- [Video (coming soon)](/)
+- Video (coming soon)
 - [Slides](https://www.slideshare.net/ToddJordan3/developing-an-ember-test-strategy-emberconf-2019-137920621)
 - Links:
 
 
-#### Crafting Web Comics with Ember by [Jessica Jordan](/)
+#### Crafting Web Comics with Ember by [Jessica Jordan]()
 
-- [Video (coming soon)](/)
+- Video (coming soon)
 - [Slides](https://jessica-jordan.github.io/crafting-webcomics-with-ember/)
 - Links:
     - Comic demo: https://jessica-jordan.github.io/diamanias/#/chapters/1
@@ -94,7 +94,7 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 #### Don't Break the Web by [Melanie Sumner]()
 
-- [Video (coming soon)](/)
+- Video (coming soon)
 - [Slides](https://noti.st/melsumner/Phhimm/dont-break-the-web)
 - Links:
 
@@ -105,26 +105,26 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 #### Dealing with Data in 2019 by [Igor Terzic]()
 
-- [Video (coming soon)](/)
-- [Slides](/)
+- Video (coming soon)
+- Slides: no slides yet!
 - Links:
 
 #### The State of Community Documentation by [Kenneth Larsen]()
 
-- [Video (coming soon)](/)
+- Video (coming soon)
 - [Slides](https://noti.st/kennethlarsen/jXt2dj/the-state-of-community-documentation)
 - Links:
 
 #### Communication and Convention by [Julia Donaldson]()
 
-- [Video (coming soon)](/)
-- [Slides](/)
+- Video (coming soon)
+- Slides: no slides yet!
 - Links:
 
 
 #### Ember is for Everyone by [Kenigbolo Meya Stephen](https://twitter.com/expensivestevie)
 
-- [Video (coming soon)](/)
+- Video (coming soon)
 - [Slides](https://docs.google.com/presentation/d/16Rkuc0wFh6knGc-8jcUz21BSv1VAmfdyJod2TIPOGHs)
 - Links:
     - [video from the talk](https://twitter.com/expensivestevie/status/1108483046896877568?s=12)
@@ -132,20 +132,21 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 #### Building Better Components by [Dianne Eramo]()
 
-- [Video (coming soon)](/)
-- [Slides](/)
+- Video (coming soon)
+- Slides: no slides yet!
 - Links:
 
-#### Composable Concurrency Tasks by [Isaac Ezer]()
+#### Composable Concurrency Tasks by [Isaac Ezer](https://twitter.com/isaacezer)
 
-- [Video (coming soon)](/)
-- [Slides](/)
+- Video (coming soon)
+- Slides: no slides yet!
 - Links:
+    - [Talk summary @medium](https://medium.com/@isaacezer/ember-composable-concurrency-b460606f81ee)
 
 #### New to Ember: What ARE All These Things? by [Jennifer Wong]()
 
-- [Video (coming soon)](/)
-- [Slides](/)
+- Video (coming soon)
+- Slides: no slides yet!
 - Links:
 
 #### MiniTalks
@@ -160,15 +161,15 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 ##### How I Learned to Stop Worrying and Love the Mono Repo by Hassan Abdel-Rahman
 
-- [Slides](/)
+- Slides: no slides yet!
 
 ##### From Mainframe to Mainstream: A Case Study in Emberification by Ryan Mark
 
-- [Slides](/)
+- Slides: no slides yet!
 
 ##### How to build a Blog Engine in 15m with Ember and NodeJS by Chris Manson
 
-- [Slides](/)
+- Slides: no slides yet!
 
 ##### What's Behind Ember Observer's Scores? by Katie Gengler
 
@@ -181,14 +182,14 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 #### No Bad Legos: A Toy Box for Everybody by [Howie Bollinger]()
 
-- [Video (coming soon)](/)
-- [Slides](/)
+- Video (coming soon)
+- [Slides](https://noti.st/dbollinger/Hu8WnX/no-bad-legos-building-a-toy-box-for-everybody)
 - Links:
 
 
 #### Closing Keynote by [Sarah Allen]()
 
-- [Video (coming soon)](/)
-- [Slides](/)
+- Video (coming soon)
+- Slides: no slides yet!
 - Links:
 
