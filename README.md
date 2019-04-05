@@ -19,6 +19,34 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 ## Day 0
 
+### Presentation Academy by [Jennifer Wong][https://twitter.com/mybluewristband] and [Marcos Iglesias](https://twitter.com/golodhros)
+
+### Modern Ember with Octane by [Erik Bryn](https://twitter.com/ebryn) and [Ryan Tablada](https://twitter.com/ryantablada)
+- [Code repo](https://github.com/embercasts/emberconf-octane-preview)
+
+### Build a Sketch-like WYSIWYG App with Ember by [Spencer Price](https://twitter.com/spencer516)
+- [Code repo](https://github.com/spencer516-workshop/wysiwyg-workshop)
+
+### Migrating to an Ember App in Stages by [David Baker](https://twitter.com/acorncom) and [Martyn Ling](https://twitter.com/martynling)
+
+### Robust Data Fetching (Training) by [EmberMap](https://embermap.com/)
+- [Code repo](https://github.com/embermap/emberconf2019-robust-data-fetching)
+
+### How to Take Up Space so People Will Listen by [Bear Douglas](https://twitter.com/beardigsit)
+
+### Supercharging Ember Octane with Typescript! (Training) by [Chris Krycho](https://twitter.com/chriskrycho)
+- [Code repo](https://github.com/chriskrycho/emberconf-2019)
+- [Slides repo](https://github.com/chriskrycho/emberconf-2019-slides)
+
+### Eat Your Greens: A Broccoli.js Tutorial (Training) by Oli Griffiths
+- [Code repo base](https://github.com/oligriffiths/emberconf-broccoli-workshop)
+- [Code repo plugin](https://github.com/oligriffiths/emberconf-broccoli-plugin)
+- Links:
+    - [Blog Post - Eat Your Greens: A Broccoli.js Tutorial](https://www.oligriffiths.com/broccolijs/)
+
+### Real-World Animations (Training) by [EmberMap](https://embermap.com/)
+- [Code repo](https://github.com/embermap/emberconf2019-real-world-animations)
+
 ### BonusConf Talks
 
 #### Ember Data - It's Not Just for JSON API Anymore by Robert Wagner
