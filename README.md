@@ -38,7 +38,7 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 - [Code repo](https://github.com/chriskrycho/emberconf-2019)
 - [Slides repo](https://github.com/chriskrycho/emberconf-2019-slides)
 
-### Eat Your Greens: A Broccoli.js Tutorial (Training) by Oli Griffiths
+### Eat Your Greens: A Broccoli.js Tutorial (Training) by [Oli Griffiths](https://twitter.com/oligriffiths)
 - [Code repo base](https://github.com/oligriffiths/emberconf-broccoli-workshop)
 - [Code repo plugin](https://github.com/oligriffiths/emberconf-broccoli-plugin)
 - Links:
@@ -49,20 +49,20 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 ### BonusConf Talks
 
-#### Ember Data - It's Not Just for JSON API Anymore by Robert Wagner
+#### Ember Data - It's Not Just for JSON API Anymore by [Robert Wagner](https://github.com/rwwagner90)
 - [Slides](https://speakerdeck.com/rwwagner90/ember-data-its-not-just-for-json-api-anymore)
 - [Video](https://www.youtube.com/watch?v=u5onNDpt8ks)
 
-#### ember new indie-software by Ryan LaBouve
+#### ember new indie-software by [Ryan LaBouve](https://twitter.com/ryanlabouve)
 - [Video](https://www.youtube.com/watch?v=MW8LGwdY3lk)
 
-#### Learning Ember on the Job by Lily Beauvilliers
+#### Learning Ember on the Job by [Lily Beauvilliers](https://twitter.com/ukulilybee)
 - [Video](https://www.youtube.com/watch?v=9YVM7-cD9aY)
 
 #### Maintaining an Ember Application at Scale by [Chris Ng](https://twitter.com/chrisrng)
 - [Video](https://www.youtube.com/watch?v=t7O9N87tOqs)
 
-#### Intro to Ember Editions & Octane by Robert Jackson
+#### Intro to Ember Editions & Octane by [Robert Jackson](https://twitter.com/rwjblue)
 - [Video](https://www.youtube.com/watch?v=hw07r_fwSSg)
 
 
