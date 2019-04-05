@@ -19,15 +19,15 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 ## Day 0
 
-### Presentation Academy by [Jennifer Wong][https://twitter.com/mybluewristband] and [Marcos Iglesias](https://twitter.com/golodhros)
+### Presentation Academy (Training) by [Jennifer Wong](https://twitter.com/mybluewristband) and [Marcos Iglesias](https://twitter.com/golodhros)
 
-### Modern Ember with Octane by [Erik Bryn](https://twitter.com/ebryn) and [Ryan Tablada](https://twitter.com/ryantablada)
+### Modern Ember with Octane (Training) by [Erik Bryn](https://twitter.com/ebryn) and [Ryan Tablada](https://twitter.com/ryantablada)
 - [Code repo](https://github.com/embercasts/emberconf-octane-preview)
 
-### Build a Sketch-like WYSIWYG App with Ember by [Spencer Price](https://twitter.com/spencer516)
+### Build a Sketch-like WYSIWYG App with Ember (Training) by [Spencer Price](https://twitter.com/spencer516)
 - [Code repo](https://github.com/spencer516-workshop/wysiwyg-workshop)
 
-### Migrating to an Ember App in Stages by [David Baker](https://twitter.com/acorncom) and [Martyn Ling](https://twitter.com/martynling)
+### Migrating to an Ember App in Stages (Training) by [David Baker](https://twitter.com/acorncom) and [Martyn Ling](https://twitter.com/martynling)
 
 ### Robust Data Fetching (Training) by [EmberMap](https://embermap.com/)
 - [Code repo](https://github.com/embermap/emberconf2019-robust-data-fetching)
