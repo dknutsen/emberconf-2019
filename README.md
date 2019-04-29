@@ -221,9 +221,10 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 - Links:
 
 
-#### Closing Keynote by [Sarah Allen]()
+#### Closing Keynote by [Sarah Allen](https://twitter.com/ultrasaurus)
 
 - [Video](https://www.youtube.com/watch?v=tHyf1-DMBKY)
 - Slides: no slides yet!
 - Links:
+    - Sarah's [blog post](https://www.ultrasaurus.com/2019/04/when-reality-is-broken-change-the-rules/) about deciding to speak at EmberConf
 
