@@ -158,7 +158,7 @@ A collection of links, notes and other resources from EmberConf 2019. This is ba
 
 #### Ember is for Everyone by [Kenigbolo Meya Stephen](https://twitter.com/expensivestevie)
 
-- Video (coming soon)
+- [Video](https://www.youtube.com/watch?v=CnLm35MiT3k)
 - [Slides](https://docs.google.com/presentation/d/16Rkuc0wFh6knGc-8jcUz21BSv1VAmfdyJod2TIPOGHs)
 - Links:
     - [video from the talk](https://twitter.com/expensivestevie/status/1108483046896877568?s=12)
